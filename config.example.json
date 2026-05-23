@@ -1,0 +1,16 @@
+{
+  "api_key": "",
+  "api_base": "",
+  "top_up_url": "",
+  "balance_warning": 5,
+  "api_key_2": "",
+  "api_base_2": "",
+  "top_up_url_2": "",
+  "balance_warning_2": 5,
+  "api_key_3": "",
+  "api_base_3": "",
+  "top_up_url_3": "",
+  "balance_warning_3": 5,
+  "budget": 0,
+  "auto_launch": true
+}

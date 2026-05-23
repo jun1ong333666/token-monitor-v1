@@ -1,0 +1,12 @@
+# Config with secrets
+config.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# PyInstaller build artifacts
+backend/build/
+*.spec
